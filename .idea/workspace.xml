@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a7eaf30-442b-4dc3-93e3-1e2e66f6e47a" name="Changes" comment="Commiting data from IDE">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LIBRARIES/Numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LIBRARIES/Numpy.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LIBRARIES/Pandas(40+ commands).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LIBRARIES/Pandas(40+ commands).ipynb" afterDir="false" />
+    <list default="true" id="4a7eaf30-442b-4dc3-93e3-1e2e66f6e47a" name="Changes" comment="Commiting data and Mini-Projects from IDE">
+      <change beforePath="$PROJECT_DIR$/GIT CHECKER/LIB CHECKER.py" beforeDir="false" afterPath="$PROJECT_DIR$/Installing&amp;Verifying_Libraries/LIB CHECKER.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJECTS/Book 6 counts.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluation Automation Tool/Book 6 counts.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJECTS/Book 6.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluation Automation Tool/Book 6.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJECTS/Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluation Automation Tool/Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROJECTS/GPT PROJECT 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluation Automation Tool/Evaluation Automation Tool.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +120,7 @@
       <workItem from="1765450671831" duration="12030000" />
       <workItem from="1765863842334" duration="662000" />
       <workItem from="1765864573401" duration="1394000" />
-      <workItem from="1765953030067" duration="4870000" />
+      <workItem from="1765953030067" duration="5171000" />
     </task>
     <task id="LOCAL-00001" summary="yo">
       <option name="closed" value="true" />
@@ -145,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764760731731</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commiting data and Mini-Projects from IDE">
+      <option name="closed" value="true" />
+      <created>1765960073334</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765960073334</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,7 +163,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="yo" />
     <MESSAGE value="Commiting data from IDE" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commiting data from IDE" />
+    <MESSAGE value="Commiting data and Mini-Projects from IDE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commiting data and Mini-Projects from IDE" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$LIB_CHECKER.coverage" NAME="LIB CHECKER Coverage Results" MODIFIED="1765459309181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GIT CHECKER" />
