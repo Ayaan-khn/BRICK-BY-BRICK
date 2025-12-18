@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a7eaf30-442b-4dc3-93e3-1e2e66f6e47a" name="Changes" comment="Commiting data and Mini-Projects from IDE">
-      <change afterPath="$PROJECT_DIR$/aura-data-visualization/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aura-data-visualization/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aura-data-visualization/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/aura-data-visualization/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +124,7 @@
       <workItem from="1765450671831" duration="12030000" />
       <workItem from="1765863842334" duration="662000" />
       <workItem from="1765864573401" duration="1394000" />
-      <workItem from="1765953030067" duration="19382000" />
+      <workItem from="1765953030067" duration="21440000" />
     </task>
     <task id="LOCAL-00001" summary="yo">
       <option name="closed" value="true" />
@@ -191,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765967135321</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Commiting data and Mini-Projects from IDE">
+      <option name="closed" value="true" />
+      <created>1766039015824</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1766039015824</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
