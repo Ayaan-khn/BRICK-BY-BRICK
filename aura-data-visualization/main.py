@@ -26,7 +26,7 @@ def main(): #Title and Sidebar
         st.sidebar.success("File uploaded successfully") #heading for sidebar
         st.subheader("Visualized data")
         st.dataframe(data.head())
-
+# must you the sub headers
         st.subheader("Lets see some more details in data") #heading for sidebar
         st.write("Shape of the the data as Row,Column:",data.shape) #heandings
         st.write("The column name inside data is ",data.columns) #headings
