@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a7eaf30-442b-4dc3-93e3-1e2e66f6e47a" name="Changes" comment="Commiting data and Mini-Projects from IDE">
+    <list default="true" id="4a7eaf30-442b-4dc3-93e3-1e2e66f6e47a" name="Changes" comment="Work Flow updating the current session as 1:42">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aura-data-visualization/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/aura-data-visualization/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,24 +51,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.LIB CHECKER.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.LIB CHECKER.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <myKeys>
       <visibility group="Grunt" flag="true" />
@@ -123,7 +124,9 @@
       <workItem from="1765450671831" duration="12030000" />
       <workItem from="1765863842334" duration="662000" />
       <workItem from="1765864573401" duration="1394000" />
-      <workItem from="1765953030067" duration="22471000" />
+      <workItem from="1765953030067" duration="22546000" />
+      <workItem from="1766046414000" duration="505000" />
+      <workItem from="1766127729979" duration="340000" />
     </task>
     <task id="LOCAL-00001" summary="yo">
       <option name="closed" value="true" />
@@ -205,7 +208,23 @@
       <option name="project" value="LOCAL" />
       <updated>1766044590638</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Commiting data and Mini-Projects from IDE">
+      <option name="closed" value="true" />
+      <created>1766045475275</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1766045475275</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Work Flow updating the current session as 1:42">
+      <option name="closed" value="true" />
+      <created>1766045534212</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1766045534212</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +234,8 @@
     <MESSAGE value="yo" />
     <MESSAGE value="Commiting data from IDE" />
     <MESSAGE value="Commiting data and Mini-Projects from IDE" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commiting data and Mini-Projects from IDE" />
+    <MESSAGE value="Work Flow updating the current session as 1:42" />
+    <option name="LAST_COMMIT_MESSAGE" value="Work Flow updating the current session as 1:42" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1766029442558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aura-data-visualization" />

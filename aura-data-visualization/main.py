@@ -1,15 +1,20 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
-import seaborn as sns
+# import numpy as np        # Will be used in future versions (data processing)
+# import seaborn as sns     # Planned for advanced visualizations
 import matplotlib.pyplot as plt
 
 def main(): #Title and Sidebar
     st.title("Aura Data Visualization")
     st.sidebar.title("Files Section")
-    upload_file = st.sidebar.file_uploader("Upload Your File here", type=['csv', 'xlsx'])
+    upload_file = st.sidebar.file_uploader(
+        "Upload Your File here",
+        type=['csv', 'xlsx', 'xls', 'json', 'xml'])
 
-    try:  # allowing my tool to access any type of file
+    try:
+        if upload_file is None:
+            st.info("Please upload a file to continue.")
+            return
         file_name = upload_file.name.lower()
         if file_name.endswith(".csv"):
             data = pd.read_csv(upload_file)
@@ -64,7 +69,10 @@ def main(): #Title and Sidebar
 
 
     except Exception as e:
-            print(e)
+            st.error(f"Error:{e}")
 
 if __name__ == "__main__":
     main()
+
+
+#streamlit run aura-data-visualization/main.py
