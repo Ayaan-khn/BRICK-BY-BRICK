@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a7eaf30-442b-4dc3-93e3-1e2e66f6e47a" name="Changes" comment="Work Flow updating the current session as 1:42">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aura-data-visualization/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/aura-data-visualization/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="4a7eaf30-442b-4dc3-93e3-1e2e66f6e47a" name="Changes" comment="Work Flow updating the current session as 1:42  Version- v2.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -235,7 +232,8 @@
     <MESSAGE value="Commiting data from IDE" />
     <MESSAGE value="Commiting data and Mini-Projects from IDE" />
     <MESSAGE value="Work Flow updating the current session as 1:42" />
-    <option name="LAST_COMMIT_MESSAGE" value="Work Flow updating the current session as 1:42" />
+    <MESSAGE value="Work Flow updating the current session as 1:42  Version- v2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Work Flow updating the current session as 1:42  Version- v2.0" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1766029442558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aura-data-visualization" />
